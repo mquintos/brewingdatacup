@@ -5,4 +5,4 @@ Autores:
 - Manuel Quintos
 - Analy Moreno
 # brewingdatacup
-Resultados de participación
+Resultados de participación 35/40 (puntuación: 0.71363198096881)
